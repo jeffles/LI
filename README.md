@@ -1,3 +1,4 @@
-# LI
+# RoedditLoseItReminderBot
 
-For some reason I decided to follow the https://guides.github.com/activities/hello-world/, which tells me to edit the readme. 
+A bot which reads from a google spreadhseet set up but /r/loseit for everyone who wants to participate in the reddit weight loss challenge. 
+It then checks to see who has not entered their weight for the current week, and sends them a reddit message reminding them to log their weight for the week. 
